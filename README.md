@@ -1,2 +1,2 @@
 # django
-My educational test on projects on Django
+My educational tests on projects on Django
